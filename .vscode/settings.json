@@ -1,0 +1,12 @@
+{
+    "conventionalCommits.scopes": [
+        "base",
+        "get profile",
+        "avatar deault",
+        "auth",
+        "profile progresss",
+        "residence",
+        "update profile",
+        "entity"
+    ]
+}
